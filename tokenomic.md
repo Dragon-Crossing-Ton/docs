@@ -2,7 +2,7 @@
 
 ✅ **Basic Information**
 
-<table><thead><tr><th width="195">Title</th><th>Detail</th></tr></thead><tbody><tr><td>Fullname</td><td>Dragon Crossingingg</td></tr><tr><td>Symbol</td><td>DGC</td></tr><tr><td>Network</td><td>TBA </td></tr><tr><td>Total Supply</td><td>1,000,000,000</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="195">Title</th><th>Detail</th></tr></thead><tbody><tr><td>Fullname</td><td>Dragon Crossing</td></tr><tr><td>Symbol</td><td>DGC</td></tr><tr><td>Total Supply</td><td>1,000,000,000</td></tr><tr><td>Network</td><td>TBA</td></tr><tr><td>Smart contract</td><td>TBA</td></tr></tbody></table>
 
 ✅ **Allocation**
 
