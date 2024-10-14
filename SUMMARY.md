@@ -10,3 +10,4 @@
   * [Fragment](menu/fragment.md)
 * [Social](social.md)
 * [Tokenomic](tokenomic.md)
+* [Team](team.md)
