@@ -8,6 +8,7 @@
 * [Menu](menu/README.md)
   * [Telegram Stars](menu/telegram-stars.md)
   * [Fragment](menu/fragment.md)
+* [Team](team.md)
 * [Social](social.md)
 * [Tokenomic](tokenomic.md)
-* [Team](team.md)
+* [Contact](contact.md)
