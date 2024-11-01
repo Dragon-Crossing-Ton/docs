@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Participation Frequency](participation-frequency.md)
+* [Gameplay](gameplay.md)
 * [Leveling System](leveling-system.md)
 * [Boost System](boost-system.md)
 * [Referral Program](referral-program.md)
