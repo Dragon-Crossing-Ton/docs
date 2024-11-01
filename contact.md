@@ -1,3 +1,3 @@
 # Contact
 
-📩 Email: dragoncrossington@gmail.com
+📩 Email: contact@dragoncross.org
