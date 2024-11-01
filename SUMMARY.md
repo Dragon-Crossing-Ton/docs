@@ -11,4 +11,7 @@
 * [Team](team.md)
 * [Social](social.md)
 * [Tokenomic](tokenomic.md)
+* [Partnership](partnership/README.md)
+  * [Backer](partnership/backer.md)
+  * [Collaboration Project](partnership/collaboration-project.md)
 * [Contact](contact.md)
