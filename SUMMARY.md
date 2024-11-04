@@ -9,6 +9,7 @@
   * [Telegram Stars](menu/telegram-stars.md)
   * [Fragment](menu/fragment.md)
 * [Team](team.md)
+* [Backed](backed.md)
 * [Social Channel](social-channel.md)
 * [Tokenomics](tokenomics.md)
 * [Milestone](milestone.md)
