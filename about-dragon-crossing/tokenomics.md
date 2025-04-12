@@ -1,4 +1,8 @@
-# Tokenomic
+---
+icon: coin-vertical
+---
+
+# Tokenomics
 
 ✅ Basic Information
 

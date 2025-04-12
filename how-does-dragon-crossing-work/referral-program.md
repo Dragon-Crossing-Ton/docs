@@ -1,3 +1,7 @@
+---
+icon: square-up-right
+---
+
 # Referral Program
 
 Dragon Crossing offers a multi-tiered referral program, allowing players to earn points by expanding the game’s community. The program is designed to incentivize players at different levels of the referral chain:

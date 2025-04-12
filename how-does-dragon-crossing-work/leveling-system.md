@@ -1,3 +1,7 @@
+---
+icon: turn-up
+---
+
 # Leveling System
 
 Dragon Crossing boasts an **unlimited leveling system** that rewards players for accumulating points through regular gameplay. The leveling structure incentivizes progress while maintaining a clear threshold for advancement:

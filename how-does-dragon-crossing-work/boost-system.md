@@ -1,3 +1,7 @@
+---
+icon: burst
+---
+
 # Boost System
 
 To amplify the player experience, Dragon Crossing offers a **Boost System** that multiplies points earned during gameplay, significantly enhancing rewards:

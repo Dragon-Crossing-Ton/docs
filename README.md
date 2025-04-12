@@ -1,4 +1,5 @@
 ---
+icon: memo-pad
 layout:
   title:
     visible: true

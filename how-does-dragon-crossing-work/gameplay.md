@@ -1,4 +1,8 @@
-# Participation Frequency
+---
+icon: gamepad
+---
+
+# Gameplay
 
 Players are encouraged to participate in Dragon Crossing through regular game intervals, creating a consistent and engaging experience:
 

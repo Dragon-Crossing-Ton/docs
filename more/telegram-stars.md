@@ -1,3 +1,7 @@
+---
+icon: star
+---
+
 # Telegram Stars
 
 **Telegram Stars** is a virtual currency used within the **Telegram ecosystem**. Stars allow users to purchase digital products and services in Telegram, such as e-books, online courses, or in-game items.

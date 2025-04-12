@@ -1,3 +1,7 @@
+---
+icon: comet
+---
+
 # Fragment
 
 [**Fragment**](https://fragment.com) is a platform related to the **Telegram ecosystem**, allowing users to trade and purchase digital assets, including Telegram usernames and other digital assets such as **Toncoin (TON)**.
